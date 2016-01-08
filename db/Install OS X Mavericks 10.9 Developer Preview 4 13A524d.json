@@ -8,7 +8,7 @@
     [
       "f", 
       "72ba0a2f7cef9032938bc950a49d074b45d768139cf1d27fbea05769e624dd0e", 
-      "Contents/MacOS/Install OS X 10.9 Developer Preview"
+      "Contents/MacOS/Install OS X Mavericks 10.9 Developer Preview"
     ], 
     [
       "f", 
@@ -5714,5 +5714,5 @@
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
-  "description": "Install OS X 10.9 Developer Preview 4 13A524d"
+  "description": "Install OS X Mavericks 10.9 Developer Preview 4 13A524d"
 }
