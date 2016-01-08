@@ -12,7 +12,7 @@
     ], 
     [
       "f", 
-      "9f2316990a80de1f21695c0b9d5244454487bd70bf46fe7a90f784a3a653b9af", 
+      "42197cef7eb6314003924e9d467dfcca1822c2835fee6d52c8477b2c902d3624", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework/Versions/A/OSInstallerSetupInternal"
     ], 
     [
@@ -37,7 +37,7 @@
     ], 
     [
       "f", 
-      "c24864dac3254c34e6b7a72a4dd5dde98a2d0bc4d11deba18eb9ecc7385e9ca8", 
+      "335358872688d38857f2e85d89a120294e32dd5b4a1f4853559304ca2c918c54", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework/Versions/A/Resources/Info.plist"
     ], 
     [
@@ -177,7 +177,7 @@
     ], 
     [
       "f", 
-      "50b361cacb7c6ccaf5e2468d2fb05fd62a1bbbc8c83cf723b2ab16eb1b4920b4", 
+      "7fbd197065c41272544abbfb1f0c2750db692e4bbb24a5ba7c6c322d659f8971", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework/Versions/A/Resources/version.plist"
     ], 
     [
@@ -197,47 +197,47 @@
     ], 
     [
       "f", 
-      "fd28b21de004e60e35d8e1b997ad5a5fa1fe4fb2e82dd8384317061bce693e10", 
+      "2810375384d50c1372e45189b586dc2355a98684c66d284ccaa4a2f789ac33e8", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework/Versions/A/_CodeSignature/CodeResources"
     ], 
     [
       "f", 
-      "9131745986ea8e40bdee626bf0d2613b768f090907e0af3b81bf39b22ab0ec37", 
+      "69bb4aec8c1622aa6fa0a430f3c33ab10de9802e3a8ba891104abefee9c8136f", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/OSInstallerSetup"
     ], 
     [
       "f", 
-      "8ea921db6bc385b42813aae86ee80bbb91f51037e821b7ca487578cbddf49eed", 
+      "f5f6491f08ee0e7d14d4ded19440e61df5e5cfb9ebc03e301a5717fa171ab890", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Resources/Info.plist"
     ], 
     [
       "f", 
-      "3965d61852a1deed235ae8bb49a7a7600237c79c0e53ac1792d672aae2aeaacd", 
+      "8f353f1dc098ca881e9e8595ee8f4953f0809e2c89b047d70f2fcea13fadb392", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Resources/brtool"
     ], 
     [
       "f", 
-      "e08054cb1bd2bea0fc71d0be0165a8bcd0f3e771f7cf5f542c8375bace0ad52c", 
+      "779f274307377749a858a2b9298d4db0ad9b58663e6e66d53068cf3f2bdba27d", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Resources/brtool_plain"
     ], 
     [
       "f", 
-      "cc80b24e95fc9efbb59138c7f891a3e5a7ff0f7bad195f95396d42ab282956ce", 
+      "caa17cf4bd20a31c7e889c24dcbcf94827fe15042858c138ecd947146a0379c1", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Resources/osinstallersetupd"
     ], 
     [
       "f", 
-      "b4ad2c657d0f37016704a783cec5921584ca6cb4a2644cb9c2af48749cdb6190", 
+      "3fd85ffd2546a4337d593bb658750ecd27a1d9aef263238fa2e14c69652b5ab8", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Resources/osishelperd"
     ], 
     [
       "f", 
-      "50b361cacb7c6ccaf5e2468d2fb05fd62a1bbbc8c83cf723b2ab16eb1b4920b4", 
+      "7fbd197065c41272544abbfb1f0c2750db692e4bbb24a5ba7c6c322d659f8971", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Resources/version.plist"
     ], 
     [
       "f", 
-      "5646aef1377e0e0de777aa59261b6b3bb612205b831b3c98c2a0d39bb598da4f", 
+      "2d81c25ffa38deaaf469ab33d62fce03b457770f63b48825026cdd5232d01fc2", 
       "Contents/Frameworks/OSInstallerSetup.framework/Versions/A/_CodeSignature/CodeResources"
     ], 
     [
@@ -247,7 +247,7 @@
     ], 
     [
       "f", 
-      "9f2316990a80de1f21695c0b9d5244454487bd70bf46fe7a90f784a3a653b9af", 
+      "42197cef7eb6314003924e9d467dfcca1822c2835fee6d52c8477b2c902d3624", 
       "Contents/Frameworks/OSInstallerSetupInternal.framework/Versions/A/OSInstallerSetupInternal"
     ], 
     [
@@ -272,7 +272,7 @@
     ], 
     [
       "f", 
-      "c24864dac3254c34e6b7a72a4dd5dde98a2d0bc4d11deba18eb9ecc7385e9ca8", 
+      "335358872688d38857f2e85d89a120294e32dd5b4a1f4853559304ca2c918c54", 
       "Contents/Frameworks/OSInstallerSetupInternal.framework/Versions/A/Resources/Info.plist"
     ], 
     [
@@ -412,7 +412,7 @@
     ], 
     [
       "f", 
-      "50b361cacb7c6ccaf5e2468d2fb05fd62a1bbbc8c83cf723b2ab16eb1b4920b4", 
+      "7fbd197065c41272544abbfb1f0c2750db692e4bbb24a5ba7c6c322d659f8971", 
       "Contents/Frameworks/OSInstallerSetupInternal.framework/Versions/A/Resources/version.plist"
     ], 
     [
@@ -432,17 +432,17 @@
     ], 
     [
       "f", 
-      "fd28b21de004e60e35d8e1b997ad5a5fa1fe4fb2e82dd8384317061bce693e10", 
+      "2810375384d50c1372e45189b586dc2355a98684c66d284ccaa4a2f789ac33e8", 
       "Contents/Frameworks/OSInstallerSetupInternal.framework/Versions/A/_CodeSignature/CodeResources"
     ], 
     [
       "f", 
-      "69f12d6818656924ca2271c5fb1fee102ddbac6fb9ef9d26fbef8af4e98416be", 
+      "9e1f2485c0ac19289d7122a416d15a1b1d9a1b41fad4526cf4e5d80ab3359064", 
       "Contents/Info.plist"
     ], 
     [
       "f", 
-      "0f3dcd6c3811e2412bc72fa040a5e3c1a375d1c24582392fda3958810c8fb7aa", 
+      "ccce07fbc29e7fe1145c724475b7f231f51909ef9e05bae29dd2a61a5b47dc1b", 
       "Contents/MacOS/InstallAssistant"
     ], 
     [
@@ -452,37 +452,37 @@
     ], 
     [
       "f", 
-      "7f7626f782b7c9f7fa5f126a8b4dc760345ddb2c81cbcea6e446272e4dfd2103", 
+      "20fc457714159f0fed7d59316f88ed32278ec7731b05972c50a4fda22e594ef4", 
       "Contents/PlugIns/DM_10_6.IABundle/Contents/Info.plist"
     ], 
     [
       "f", 
-      "d7cc9ec5eac304ead86c3e475fd34fdb2eaf27f74024821678872e6a4283607f", 
+      "d078ebf813fa228a286fbc0b34d8813d6d5cae4fe8e2beac6b187886792c172d", 
       "Contents/PlugIns/DM_10_6.IABundle/Contents/MacOS/DM_10_6"
     ], 
     [
       "f", 
-      "3813dcc9a8f842016bc1397e58d1f15ded57ee0e4e74ee3dcde909e05da1b718", 
+      "cd9bbb93883fd11ec464987aa1fa5a79d042cb8dfb936da58f250233f902f504", 
       "Contents/PlugIns/DM_10_6.IABundle/Contents/_CodeSignature/CodeResources"
     ], 
     [
       "f", 
-      "1e614dc1b6db39bed7b2e35379cf1d7f753cec3e4d48254ae6b5c7013cfcfc0b", 
+      "efcf9c585658fb41495cf6af11155bddb0cc0037dc16d7b0461a02a8881849e3", 
       "Contents/PlugIns/DM_10_6.IABundle/Contents/version.plist"
     ], 
     [
       "f", 
-      "e93de7e9fef45dfb27b276ae6c0d38c4837c1266028148333c50aedc890cccab", 
+      "c980d1e436816a5c8e2fbab388da5a6fc0e65e8e862b3fa4c4f613ecdf386a70", 
       "Contents/PlugIns/IA.bundle/Contents/Info.plist"
     ], 
     [
       "f", 
-      "02dc2e526c1e565ea7413e3bbd0859e7ef24abe60e9fca4b1b9492af5c52fe2a", 
+      "305a5c5c19289bef6251bec750b62d72c58cff9fbf0fa244b4e63feba773f954", 
       "Contents/PlugIns/IA.bundle/Contents/MacOS/IA"
     ], 
     [
       "f", 
-      "a3756c1cc66b3f60b37928bde41f209c21c52b43e7e2df04f1dd37cf7ce5747a", 
+      "89679512f147432a1c721f9b0e82608668028b38b8c8e495cb1e4789bcaa3380", 
       "Contents/PlugIns/IA.bundle/Contents/MacOS/libBaseIA.dylib"
     ], 
     [
@@ -1357,32 +1357,32 @@
     ], 
     [
       "f", 
-      "61bb077db19f3c8e2d9abcc42f623704b60991093349209c93aa0f3fb7b39f42", 
+      "8e7f53dfe7a9f370ef12fedd18404492aa083921ea3241d5cd9b30ef2fbac8fc", 
       "Contents/PlugIns/IA.bundle/Contents/_CodeSignature/CodeResources"
     ], 
     [
       "f", 
-      "1e614dc1b6db39bed7b2e35379cf1d7f753cec3e4d48254ae6b5c7013cfcfc0b", 
+      "efcf9c585658fb41495cf6af11155bddb0cc0037dc16d7b0461a02a8881849e3", 
       "Contents/PlugIns/IA.bundle/Contents/version.plist"
     ], 
     [
       "f", 
-      "a9716017eccf4557446cbfae18aa3760ecaaafd2e8d21b60c36283d37c1511ca", 
+      "73d2255e5081323b938d2a4ee7290d8863f289dd6877e152ed0da69fb40fb1f9", 
       "Contents/PlugIns/IACoreStorage.IABundle/Contents/Info.plist"
     ], 
     [
       "f", 
-      "f5b9e25e2cf06d6e23eb9d731a90728844e484f85692aad71ec13126c940b0d6", 
+      "137ead2ab57cae946db48236d1d66eb3e7e8a8c6818268600f06b910a3eb7af4", 
       "Contents/PlugIns/IACoreStorage.IABundle/Contents/MacOS/IACoreStorage"
     ], 
     [
       "f", 
-      "75b5e1739746ab2848d6ca1c0582714869332286da452f01928e1714a84c5e10", 
+      "1b9f49dafdacc481da327c3bc8116e4c373b14edcb6e8a7c593f06ab93477202", 
       "Contents/PlugIns/IACoreStorage.IABundle/Contents/_CodeSignature/CodeResources"
     ], 
     [
       "f", 
-      "1e614dc1b6db39bed7b2e35379cf1d7f753cec3e4d48254ae6b5c7013cfcfc0b", 
+      "efcf9c585658fb41495cf6af11155bddb0cc0037dc16d7b0461a02a8881849e3", 
       "Contents/PlugIns/IACoreStorage.IABundle/Contents/version.plist"
     ], 
     [
@@ -1462,7 +1462,7 @@
     ], 
     [
       "f", 
-      "f6b1891147ada19a27ecf2ea4187675d320e11add10b181cbd30bf97aa226ce8", 
+      "78d65a0632d45d2c54c25abee421e3b112887a996a38ab737cfc2fdfebabd24b", 
       "Contents/Resources/InstallAssistantTool"
     ], 
     [
@@ -1587,12 +1587,12 @@
     ], 
     [
       "f", 
-      "3965d61852a1deed235ae8bb49a7a7600237c79c0e53ac1792d672aae2aeaacd", 
+      "8f353f1dc098ca881e9e8595ee8f4953f0809e2c89b047d70f2fcea13fadb392", 
       "Contents/Resources/brtool"
     ], 
     [
       "f", 
-      "e08054cb1bd2bea0fc71d0be0165a8bcd0f3e771f7cf5f542c8375bace0ad52c", 
+      "779f274307377749a858a2b9298d4db0ad9b58663e6e66d53068cf3f2bdba27d", 
       "Contents/Resources/brtool_plain"
     ], 
     [
@@ -1642,7 +1642,7 @@
     ], 
     [
       "f", 
-      "b75a8529fdfc803aae856edaa3efc11efc2ac9e6adcb581625ef412be7510ef9", 
+      "bbd2f0004c92e06ed2f04b9fa67d3f2d8569620f648e21fff3fb0f5d97daa79f", 
       "Contents/Resources/createinstallmedia"
     ], 
     [
@@ -1992,7 +1992,7 @@
     ], 
     [
       "f", 
-      "25939c3be9412d36b3bcd4ab34902f173650245c42b04f90c0067069262b77dc", 
+      "cea41f56b1e9ce7b09d60623dec6f85cdfd76542c7673b377a6302d7c8bad3a2", 
       "Contents/Resources/startosinstall"
     ], 
     [
@@ -2117,27 +2117,27 @@
     ], 
     [
       "f", 
-      "6275929722c35674fce90d2272d383d49696096e8626ee7f7900dd0334167a9a", 
+      "8e81dc547f07bc92408d5269983c64cf6ab2206e4d9a1cd94eb6e9003279921b", 
       "Contents/SharedSupport/InstallESD.dmg"
     ], 
     [
       "f", 
-      "d3bd927bea7cfb2d5ea26a01d7c57b90da82c6a9ba629b6ec4f47ecd8632e5d2", 
+      "f3c603b356f1dd2be20b589370aa27b9699a94f89e9840d66cbc7e558879e07a", 
       "Contents/SharedSupport/OSInstall.mpkg"
-    ],
+    ], 
     [
       "f", 
-      "d05fafa933fb2a5469e77c736fa4b8726cc7df07de0ea46715576e88d2a6ee16",
+      "d59c9dc7afebca35d929936eb2071bb5cfa6180c4432c949ed12928a6da17c64", 
       "Contents/_CodeSignature/CodeResources"
-    ],  
+    ], 
     [
       "f", 
-      "c8715b6b2e043012501bf75e77244b7aaa3e6668c77507c0f118b70a735412e0", 
+      "3803e1715811e750695d594318541b50617fa1a48cbebb50d950b8db7f2be7eb", 
       "Contents/version.plist"
     ]
-  ],
+  ], 
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
-  "description": "Install OSX 10.11.1.app"
+  "description": "Install OS X 10.11.2 15C50"
 }
