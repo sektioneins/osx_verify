@@ -218,7 +218,12 @@ if args.compare:
 	
 	puts("-----------")
 	for k, v in sorted(result.items(), key=lambda e: len(e[1]), reverse=True):
-		puts("Results for %s (%s):" % (db[k]['description'], k))
+		if db[k].has_key('verified') and db[k]['verified'] == True:
+			verified = "(verified hashes)"
+		else:
+			verified = "(3rd party submitted unverified hashes)"
+			
+		puts("Results for %s (%s) %s:" % (db[k]['description'], k, verified))
 		if len(v) == 0:
 			puts("  perfect match")
 		else:
