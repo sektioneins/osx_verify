@@ -2139,5 +2139,6 @@
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
+  "verified" : true, 
   "description": "Install OS X El Capitan 10.11.1 15B42"
 }

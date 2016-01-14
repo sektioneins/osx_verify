@@ -1679,5 +1679,6 @@
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
+  "verified" : true, 
   "description": "Install OS X Yosemite 10.10.5 14F27"
 }

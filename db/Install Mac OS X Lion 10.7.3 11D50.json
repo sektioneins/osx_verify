@@ -5024,5 +5024,6 @@
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
+  "verified" : true, 
   "description": "Install Mac OS X Lion 10.7.3 11D50"
 }

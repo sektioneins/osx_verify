@@ -5824,5 +5824,6 @@
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
+  "verified" : true, 
   "description": "Install OS X Mavericks 10.9.1 13B42"
 }

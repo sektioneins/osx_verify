@@ -5334,5 +5334,6 @@
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
+  "verified" : true, 
   "description": "Install OS X Mountain Lion 10.8.2 12C54"
 }
