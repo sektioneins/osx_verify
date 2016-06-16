@@ -2499,5 +2499,6 @@
   "ignore": [
     "Contents/_MASReceipt/*"
   ], 
+  "verified" : true, 
   "description": "Install macOS 10.12 beta1 8S128d.app"
 }
